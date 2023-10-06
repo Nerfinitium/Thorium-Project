@@ -2,8 +2,8 @@
 # Thorium-Project
 ## The Next Generation Nuclear Reactor 
 
+   * Molten Salt Reactor Dediğimiz Reaktör tipinin basit şeması
 <tr>
-  * Molten Salt Reactor Dediğimiz Reaktör tipinin basit şeması
 <td>
 <img src="https://www.mdpi.com/energies/energies-14-05279/article_deploy/html/images/energies-14-05279-g001.png">
 
