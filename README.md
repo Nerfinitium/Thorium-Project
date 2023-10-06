@@ -17,3 +17,14 @@
 
  
 </tr>
+
+## Peki bu kadar fazla deney isteyen şeyleri nasıl test edeceğiz?
+ * Unreal Engine 5 motorunu kullanmak ve üzerine bağımsız çalışan bir fizik motoru yazmak
+ * Bağımsız fizik motorumuz tamamlandığında bir reaktörü simüle edeceğiz
+ * Yazacağımzı bu bağımsız fizik motoru sayesinde hesaplamalar olabildiğince gerçeğe yakın olacak
+ * Bu Testlerdeki tüm veriler serverlarımızda tutulup akedemik olarak bu yolda yürümek isteyenler için bir ışık kaynağı olması ümidi ile
+
+ ## Bağımsız fizik motorumuzun olduğu Repoya Bakmayı unutmayın
+ <tr>
+  ## <a href="">Fizik Reposu</a>
+ </tr>
