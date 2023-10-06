@@ -1,4 +1,5 @@
 # Thorium-Project
 The Next Generation Nuclear Reactor 
- ![](https://img.shields.io/badge/%20Thorium%20%2F%20FNuclear-Reactor%20%2F%20Particle-accelerator%20%2F%20UE5)
+ ![](https://img.shields.io/badge/Thorium%20Reactor-Project%20%2F%20Particle-Accelerator%20%2F%20UnrealEngine5%20%2F%20Fuel%20%2F%20Simulation-blue)
+
 
