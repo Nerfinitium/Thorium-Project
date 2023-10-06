@@ -24,7 +24,7 @@
  * Yazacağımzı bu bağımsız fizik motoru sayesinde hesaplamalar olabildiğince gerçeğe yakın olacak
  * Bu Testlerdeki tüm veriler serverlarımızda tutulup akedemik olarak bu yolda yürümek isteyenler için bir ışık kaynağı olması ümidi ile
 
- ## Bağımsız fizik motorumuzun olduğu Repoya Bakmayı unutmayın
+ ## Bağımsız fizik motorumuzun olduğu Repoya Bakmayı unutmayın 
  <tr>
-  ## <a href="">Fizik Reposu</a>
+   <a href="">Şu an için gizli</a>
  </tr>
