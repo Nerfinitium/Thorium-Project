@@ -26,5 +26,5 @@
 
  ## Bağımsız fizik motorumuzun olduğu Repoya Bakmayı unutmayın 
  <tr>
-   <a href="">Şu an için gizli</a>
+   <a href="https://github.com/Nerfinitium/thoriumrc">Sadece izni olanlar</a>
  </tr>
