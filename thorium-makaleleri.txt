@@ -16,5 +16,10 @@ Tübitak : https://services.tubitak.gov.tr/edergi/yazi.pdf;jsessionid=EUFCIPb+gA
 
 
 PARÇACIK HIZLANDIRICISI MAKALELERİ:
+Department of energy : https://www.energy.gov/articles/how-particle-accelerators-work#:~:text=How%20does%20a%20particle%20accelerator,that%20are%20to%20be%20accelerated.
+image of linear accelereators : https://cdn.britannica.com/70/3370-050-492701A7/accelerator-field-drift-tubes-proton-resonance-diagram.jpg
+Large Hadron Collider : https://newscenter.lbl.gov/wp-content/uploads/2018/06/ATLAS-LHC-CERN.jpg
+Cern : https://home.cern/science/accelerators/how-accelerator-works
+howstuffworks : https://science.howstuffworks.com/atom-smasher2.htm
 
 
