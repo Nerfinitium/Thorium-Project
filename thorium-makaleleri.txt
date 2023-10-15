@@ -21,5 +21,8 @@ image of linear accelereators : https://cdn.britannica.com/70/3370-050-492701A7/
 Large Hadron Collider : https://newscenter.lbl.gov/wp-content/uploads/2018/06/ATLAS-LHC-CERN.jpg
 Cern : https://home.cern/science/accelerators/how-accelerator-works
 howstuffworks : https://science.howstuffworks.com/atom-smasher2.htm
-
+Uluslar Arası Atom Enerjisi Kurumu : https://www.iaea.org/newscenter/news/what-are-particle-accelerators
+Atom enerjisi kurumunun Videosu : https://youtu.be/oUz-g2JTchk
+MIT Mühendislik soru kısmı : https://engineering.mit.edu/engage/ask-an-engineer/how-does-a-particle-accelerator-work-and-why-are-such-large-structures-necessary/
+EPA : https://www.epa.gov/radtown/particle-accelerators-and-radiation-research
 
