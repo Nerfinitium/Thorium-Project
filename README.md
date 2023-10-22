@@ -28,3 +28,5 @@
  <tr>
    <a href="https://github.com/Nerfinitium/thoriumrc">Sadece izni olanlar</a>
  </tr>
+
+<h1>Yakında yeni dökümaları buraya ekleyeceğiz sabırınız için teşekkür ederiz</h1>
