@@ -6,6 +6,7 @@
 <tr>
 <td>
 <img src="https://neutronbytes.files.wordpress.com/2022/08/tmsr_thumb.png?w=598&h=633" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/IMSR_heat_applications.png/440px-IMSR_heat_applications.png"/>
 
 
 <a href="https://www.facebook.com/fizikist/videos/prof-engin-ar%C4%B1k-kurtar%C4%B1c%C4%B1n%C4%B1n-%C3%BCzerinde-oturuyorsunuz-ama-haberiniz-yok/121827250161891/">Engin Arığın Konuşması</a>
