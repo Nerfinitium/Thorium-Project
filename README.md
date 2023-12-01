@@ -5,7 +5,7 @@
    * Molten Salt Reactor Dediğimiz Reaktör tipinin basit şeması
 <tr>
 <td>
-<a href="https://neutronbytes.files.wordpress.com/2022/08/tmsr_thumb.png?w=598&h=633">Basic Reactor </a>
+<img src="https://neutronbytes.files.wordpress.com/2022/08/tmsr_thumb.png?w=598&h=633" />
 
 
 <a href="https://www.facebook.com/fizikist/videos/prof-engin-ar%C4%B1k-kurtar%C4%B1c%C4%B1n%C4%B1n-%C3%BCzerinde-oturuyorsunuz-ama-haberiniz-yok/121827250161891/">Engin Arığın Konuşması</a>
